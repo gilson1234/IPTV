@@ -87,11 +87,6 @@ http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070529
 http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070554
 
 ##PLUTO TV##
-#EXTINF:0 tvg-id="avi" group-title="Manco Gamer 593 APPS",Listas 593 IPTV App by Manco Gamer 593 APPS
-http://593apps.site/videoIPTV593.mp4
-#EXTINF:0 tvg-id="ext" group-title="Manco Gamer 593 APPS",Listas 593 IPTV App by Manco Gamer 593 APPS
-http://593apps.site/videoIPTV593.mp4 x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
-
 #EXTINF:0 tvg-id="ext" group-title="Filmes",Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="ext" group-title="Filmes",Pluto TV Filmes Ao
