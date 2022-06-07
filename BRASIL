@@ -1,0 +1,87 @@
+#EXTM3U
+
+##CANAIS ABERTO##
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS ABERTOS",BAND SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856507
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS ABERTOS",BAND HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856509
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",RECORD BELEM
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856533
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",RECORD BH HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856519
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",RECORD DF HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856521
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",RECORD MINAS SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856537
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",RECORD RS HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856522
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",RECORD RS SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856541
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS ABERTOS",RECORD SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856515
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",RECORD SP HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856523
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS ABERTOS",REDE VIDA
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856524
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS ABERTOS",REDETV!
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856525
+#EXTINF:0 tvg-id="Rit.br" group-title="CANAIS ABERTOS",RIT
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856526
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS ABERTOS",SBT HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856529
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",SBT RS HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856845
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS ABERTOS",SBT SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856527
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="CANAIS ABERTOS",TV CÂMARA
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856554
+#EXTINF:0 tvg-id="TVE.se" group-title="CANAIS ABERTOS",TVE
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/856555
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="CANAIS ABERTOS",CANAL DO BOI
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/978252
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Record Recife HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980185
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Record Rio HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980370
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",RECORD MANAUS
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/980400
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS ABERTOS",BAND FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/981416
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",CANAL DO BOI HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/981476
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="CANAIS ABERTOS",CANAL DO BOI SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/981477
+#EXTINF:0 tvg-id="Tvsenado.br" group-title="CANAIS ABERTOS",TV SENADO
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/981564
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",SBT RJ HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/981589
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="CANAIS ABERTOS",TV GAZETA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/981726
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="CANAIS ABERTOS",TV GAZETA FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/981727
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="CANAIS ABERTOS",TV CULTURA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/983083
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV CULTURA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/983084
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV THATHI CAMPINAS SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1006532
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV THATHI CAMPINAS HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1006533
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV PAMPA SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1006597
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV PAMPA HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1006598
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",SBT SP FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1007038
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",BAND SP FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1007039
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV GAZETA ESPIRITO SANTO HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1007040
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV GAZETA ESPIRITO SANTO FHD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1007041
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",SBT GO SD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070528
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",SBT GO HD
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070529
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV DIARIO FORTALEZA
+http://vipeiptv.com:8080/usuario_Abril_2022/Usuario_001_I/1070554
